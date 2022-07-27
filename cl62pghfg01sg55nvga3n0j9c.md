@@ -1,4 +1,4 @@
-## opencast.co
+## opencast.co Hakkında
 
 Şu anda üzerinde bulunduğunuz opencast.co aslında 2015'de kurulan açık-kaynak.org'dan bayrağı devir alan, vizyonunu tekrar revize eden bir oluşum.
 
