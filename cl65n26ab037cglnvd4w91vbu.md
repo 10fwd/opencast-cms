@@ -4,7 +4,7 @@ Veritabanlarının güvenilirlik açısından kendilerini ispat etmeleri diğer 
 
 Bilhassa alternatifler arasında MongoDB, Neo4j gibi isimler artık yavaş yavaş eksiklerini kapatıyorken, daha önce Python Core Developer olarak da çalışmış bir ekipten ilişkisel veritabanı esasları ile çalışan, ancak API arabirimlerini SQL'den soyutlayarak graph-tabanlı alternatiflerini aratmayacak bir deneyim sunan EdgeDB duyuruldu. Üstelik bundan 6 ay önce 1.0'ını yeni tanıtmış ekip, bugün 2.0 sürümü ile karşımızda.
 
-Benim henüz deneme fırsatım olmamasına rağmen, bilhassa HTTP katmanı üzerinden haberleşen API'larının "stateless" çalışması, yani başka bir deyişle sürekli ve yönetmeniz gereken açık bir bağlantı ihtiyacı duymaması şimdiden takdir ettiğim özellikleri arasında yer aldı. Bilhassa günümüzün cloud üzerinden ölçeklenebilir olarak tasarladığımız sistemlerinde mimarideki her "stateless" unsur büyük bir yapısal kolaylık anlamına geliyor.
+Benim henüz deneme fırsatım olmamasına rağmen, özellikle HTTP katmanı üzerinden haberleşen API'larının "stateless" çalışması, yani başka bir deyişle sürekli ve yönetmeniz gereken açık bir bağlantı ihtiyacı duymaması şimdiden takdir ettiğim özellikleri arasında yer aldı. Kuşkusuz günümüzün cloud üzerinde ölçeklenecek şekilde tasarladığımız sistemlerinde, mimarideki her "stateless" unsur büyük bir yapısal kolaylık anlamına geliyor.
 
 Ayrıca ekibin DX (Developer Experience)'a önem verdiği, CLI araçlarının şemalardaki migrationları ilk elden desteklediği, sizi bulunduğunuz platformda çok farklı gönüllü kişilerce tasarlanan ORM/ODM kütüphaneleriyle learning curve'üne teslim etmemesi de pek rastlanılmayan bir özellik.
 
