@@ -6,9 +6,54 @@ Bilhassa alternatifler arasında MongoDB, Neo4j gibi isimler artık yavaş yava�
 
 Benim henüz deneme fırsatım olmamasına rağmen, bilhassa HTTP katmanı üzerinden haberleşen API'larının "stateless" çalışması, yani başka bir deyişle sürekli ve yönetmeniz gereken açık bir bağlantı ihtiyacı duymaması şimdiden takdir ettiğim özellikleri arasında yer aldı. Bilhassa günümüzün cloud üzerinden ölçeklenebilir olarak tasarladığımız sistemlerinde mimarideki her "stateless" unsur büyük bir yapısal kolaylık anlamına geliyor.
 
-Son olarak ekibin DX (Developer Experience)'a önem verdiği, CLI araçlarının şemalardaki migrationları ilk elden desteklediği, sizi bulunduğunuz platformda çok farklı gönüllü kişilerce tasarlanan ORM/ODM kütüphaneleriyle learning curve'üne teslim etmemesi de pek rastlanılmayan bir özellik.
+Ayrıca ekibin DX (Developer Experience)'a önem verdiği, CLI araçlarının şemalardaki migrationları ilk elden desteklediği, sizi bulunduğunuz platformda çok farklı gönüllü kişilerce tasarlanan ORM/ODM kütüphaneleriyle learning curve'üne teslim etmemesi de pek rastlanılmayan bir özellik.
+
+Yine, EdgeDB 2.0 sürümü ile birlikte bir de arabirim sağlamaya başlamış:
+
+![EdgeDB UI](https://cdn.hashnode.com/res/hashnode/image/upload/v1659049852834/w-Z8Fino8.webp align="left")
+
+Peki EdgeDB'e güvenmek mümkün mü? Yani veritabanlarındaki veri kayıpları geri dönülemez hasarlar bırakırken, henüz 6 ay önce kendisine "1.0" diyebilmiş bir yazılıma güvenebilir miyiz? Elbette, bu tarz riskler her zaman baki olmak koşuluyla, EdgeDB aslında tüm bu özelliklerini PostgreSQL üzerine inşa etmiş durumda. Ve yine PostgreSQL gibi [100% açık kaynak bir yazılım](https://github.com/edgedb) kimliğinde.
+
+EdgeDB'nin SQL kullanmadığından bahsettik, yerine EdgeQL isimli bir dil kullanıyor. EdgeQL ile ilgili örneklere gelirsek...
+
+## Deklaratif Şema Tanımları
+
+```
+type User {
+  required property email -> str {
+    constraint exclusive;
+  }
+}
+
+type BlogPost {
+  required property title -> str;
+  required property published -> bool {
+    default := false
+  };
+  link author -> User;
+
+  index on (.title);
+}
+```
+
+## Yalın Sorgulama Dili
+
+```
+select BlogPost {
+  title,
+  trimmed_title := str_trim(.title),
+  author: {
+    email
+  }
+}
+filter not .published
+```
+
+
+
 
 Eğer şu ana kadar anlatılanlar ilginizi çektiyse, devamı için aşağıdaki linklere bakabilirsiniz:
 
 - https://www.edgedb.com/
 - https://www.edgedb.com/blog/edgedb-2-0
+- https://www.edgedb.com/docs/edgeql/index
