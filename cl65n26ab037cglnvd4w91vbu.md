@@ -57,3 +57,4 @@ Eğer şu ana kadar anlatılanlar ilginizi çektiyse, devamı için aşağıdaki
 - https://www.edgedb.com/
 - https://www.edgedb.com/blog/edgedb-2-0
 - https://www.edgedb.com/docs/edgeql/index
+- https://github.com/edgedb
