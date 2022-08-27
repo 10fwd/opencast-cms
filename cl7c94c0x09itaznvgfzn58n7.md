@@ -38,7 +38,7 @@ Deno'nun -kendi iddialarına göre- hedefi Deno'yu en hızlı JavaScript runtime
 **Kurumsal Destek**  
 Deno'nun büyük şirketlerdeki geliştiricilerce kullanımı ve yaygınlığı için "Deno'yu kurumsal dünya kurgusuna uyarlamak" gibi bir başlıkla ofis saatleri başlatarak kurumsal-Deno işbirliğinin başlayacağı ifade ediliyor.
 
-**En Rahat Geliştirici Deneyimi (DX)**
+**En Rahat Geliştirici Deneyimi (DX)**  
 Deno kullanıcılarına yaptığı ankette en büyük avantajının TypeScript'i runtime ile birlikte getirmesi olduğu bulgusuna erişmiş. Yine kendi içerisinde gelen lint, format, test, benchmark, dokümantasyon araçları ile Deno bu alanda en iyi developer experience (DX)'ı sağlamaya devam edeceğini iddia ediyor.
 
 **Ekosistem**   
