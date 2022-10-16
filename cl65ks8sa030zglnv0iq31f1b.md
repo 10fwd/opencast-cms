@@ -1,4 +1,4 @@
-## World Community Grid
+# World Community Grid
 
 1999 yılında SETI@home ile tanışmıştım. Dünyanın en büyük dağıtık işlem projesiydi. Gerekli yazılımı bilgisayarınıza yükledikten sonra programın sizin CPU gücünüzü kullanmanıza izin veriyor, böylece evdeki bilgisayarınızda uzaydan çekilen fotoğrafların analiz edilmesini, bulguların da tekrar SETI projesine gönderilmesini sağlayabiliyordunuz. Bu da işlem hacmi olarak dünyanın en büyük süper bilgisayarı anlamına geliyordu. Bu proje bilim açısından amacına ulaşıp extraterrestial varlıklara ulaşamadı belki ama bu tarz bir yapılanma için öncülük etti.
 
