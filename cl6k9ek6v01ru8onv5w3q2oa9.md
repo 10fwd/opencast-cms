@@ -1,4 +1,4 @@
-## JavaScript Tip Sistemi için 3 İpucu
+# JavaScript Tip Sistemi için 3 İpucu
 
 Yazının orijinali için: [https://medium.com/dailyjs/3-tips-for-javascripts-type-system-2519ba57f954](https://medium.com/dailyjs/3-tips-for-javascripts-type-system-2519ba57f954)
 
