@@ -1,4 +1,4 @@
-## Carbon: C++'ın ardıl'ı
+# Carbon: C++'ın ardıl'ı
 
 Başlık biraz iddialı gelmiş, hoşunuza gitmemiş olabilir. Ancak bu ay gerçekleşen [CppNorth konferansı](https://cppnorth.ca/)nda Google'da geliştirilen [Carbon programlama dili tanıtıldı](https://www.youtube.com/watch?v=omrY53kbVoA). Bu tanıtımda Carbon'u bu ifadeler ile tanıttılar.
 
