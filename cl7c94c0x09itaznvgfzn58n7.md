@@ -1,4 +1,4 @@
-## Deno 1.25, Yol Haritası ve Rakipleri
+# Deno 1.25, Yol Haritası ve Rakipleri
 
 Yeni bir "JavaScript Runtime"ını değerlendirirken, elbette ilk yaptığımız değerlendirme çoğunlukla bu runtime'ı Node.js ile karşılaştırıp farkları anlamaya çalışmak üzerinden ilerliyor. 
 
