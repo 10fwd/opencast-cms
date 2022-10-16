@@ -1,6 +1,6 @@
 # opencast.co Hakkında
 
-Şu anda üzerinde bulunduğunuz **opencast.co** aslında 2015'de kurulmuş [10forward](https://10forward.io/) meta-topluluğuna ait bir mecradır.
+Şu anda üzerinde bulunduğunuz **opencast.co** [10forward](https://10forward.io/) meta-topluluğuna ait bir "haber" mecrasıdır.
 
 
 ## Ne yapıyoruz?
