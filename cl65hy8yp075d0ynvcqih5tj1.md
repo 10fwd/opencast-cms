@@ -1,4 +1,4 @@
-## Document destekli PostgreSQL
+# Document destekli PostgreSQL
 
 Başlarda NoSQL olarak ismini duyuran “Document Database” teknolojileri bildiğimiz ilişkisel veritabanlarına oranla apayrı bir yaklaşım gerektirdiği için kullanım istatistiklerinde çok keskin sıçramalar oluşturamıyor olsa da, gün geçtikçe projelerde kendilerine daha fazla yer bulmaya başlıyorlar.
 
