@@ -1,4 +1,4 @@
-## Stop IE6
+# Stop IE6
 
 2000’li yıllarda Microsoft ve Netscape arasında web’de egemen olma rekabeti için “Browser Savaşları” başlığı atılıyordu. Bugünkü durumun aksine iş mahkeme salonlarına taşınmış, Netscape açtığı tazminat davaları ile Microsoft’un üzerine gidiyordu. Microsoft ise farklı bir taktik gerçekleştirerek artık her browser için ayrı JavaScript kodu yazmaktan usanmış webmasterları kazanmayı tercih etti. Web yazılımcılarının bir daha vazgeçemeyeceği oyuncaklar sundular: DHTML ve CSS.
 
