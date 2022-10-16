@@ -1,4 +1,4 @@
-## Debian Wheezy ve Debian Release Cycle hakkında
+# Debian Wheezy ve Debian Release Cycle hakkında
 
 Debian, [bits.debian.org](http://bits.debian.org/2013/04/release-date.html) üzerinden işletim sisteminin 7.0 sürümü olan Wheezy’nin sürüm tarihini Mayısın 4’ü veya 5’i olarak duyurdu. Wheezy stabil sürüm ünvanını Squeeze’den devir alacak.
 
