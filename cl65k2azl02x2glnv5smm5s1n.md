@@ -1,4 +1,4 @@
-## OpenGL lisans değiştirdi
+# OpenGL lisans değiştirdi
 
 Yazılımlar hakkında ufak tefek bilgi sahibiyseniz mutlaka her yazılımın kullanıcıları, geliştiricileri ve sahipleri ile aralarında bir “sözleşme” olduğunun farkındasınızdır. Bunların en bilinenleri Microsoft’un son kullanıcılar için EULA’sı, GNU’nun geliştiriciler için GPL’idir diye tahmin ediyorum.
 
