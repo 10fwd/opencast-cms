@@ -1,4 +1,4 @@
-## Hacktoberfest 2021
+# Hacktoberfest 2021
 
 Açık kaynak kodlu geliştirmeyi yaygınlaştırmak amacıyla yola çıkan ve her yıl daha da fazla ilgi gören Hacktoberfest, 8. yılında. Ekim ayı boyunca açık kaynak geliştirmeye yeni başlayacak olanları ve hali hazırda geliştiricileri katkıya çağıran organizasyon ile ilgili detaylara https://hacktoberfest.digitalocean.com/ adresinden ulaşabilirsiniz.
 
