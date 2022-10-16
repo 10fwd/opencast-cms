@@ -1,8 +1,6 @@
-## opencast.co Hakkında
+# opencast.co Hakkında
 
-Şu anda üzerinde bulunduğunuz **opencast.co** aslında 2015'de kurulmuş, açık-kaynak.org'dan bayrağı devir almış, vizyonunu tekrar revize eden bir oluşum.
-
-Amaç ise bu süre içerisinde hep sabit kaldı; uzun süredir topluluk bilinci ön planda olan, içinde bulunduğumuz ekosistem için üreten veya üretmeye hazır aktörleri birbirleri ile iletişimde kalacakları şekilde yakınlaştırmak amacımızı oluşturuyordu. Şartlar ve platformlar değiştikçe, bu amaç ekseninde toplululuğa hizmet etme yöntemlerimiz de buna bağlı olarak evrimleşiyor.
+Şu anda üzerinde bulunduğunuz **opencast.co** aslında 2015'de kurulmuş [10forward](https://10forward.io/) meta-topluluğuna ait bir mecradır.
 
 
 ## Ne yapıyoruz?
@@ -18,9 +16,9 @@ Ulaştığımız bu noktada topluluktan ve sektörden haber alınmasını sağla
 - Topluluğun ürettiği yayın ve içeriklerin duyuruları
 - Topluluğun organize ettiği online ve fiziksel etkinliklerin duyuruları
 
-Yeni güncelleme itibariyle ayrıca içerikleri takip etmek için [Twitter Hesabımız](https://twitter.com/opencastco) üzerinden de izlenim sağlayabilirsiniz.
+Yeni güncelleme itibariyle ayrıca içerikleri takip etmek için [Twitter Hesabımız](https://twitter.com/10forward_io) üzerinden de izlenim sağlayabilirsiniz.
 
 
 ## Bu Oluşuma Nasıl Destek Verebilirim?
 
-Bize burada yer almasını uygun gördüğünüz haberleri iletebilirsiniz; Bunun da en kısa yolu [Telegram](https://t.me/esero) üzerinden bize ulaşmak.
+Bize burada yer almasını uygun gördüğünüz haberleri iletebilirsiniz; Bunun da en kısa yolu [Telegram](https://t.me/esero) üzerinden editörümüze ulaşmak.
