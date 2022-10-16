@@ -1,4 +1,4 @@
-## EdgeDB 2.0: Geleneksel tabanda modern bir veritabanı
+# EdgeDB 2.0: Geleneksel tabanda modern bir veritabanı
 
 Veritabanlarının güvenilirlik açısından kendilerini ispat etmeleri diğer yazılımcı araçlarına oranla daha fazla süre aldığı, hepimizin veri kaybına ve risklere yönelik temkinli olduğumuz bir gerçek. Bu nedenle, tahminen bulunduğunuz yazılım ekiplerinde veya yeni proje başlangıçlarında çokça kez veritabanı seçimi konusundaki tartışmalara siz de denk gelmiş veya içinde yer almışsınızdır. Bundan 5-6 yıl önce genel amaçlı uygulamalarda ilişkisel veritabanlarının (RDBMS'ler) yeri tartışılmaz iken; artık döküman tabanlı, graph veritabanları da seçim kümesinde kendilerine yer bulabiliyorlar.
 
