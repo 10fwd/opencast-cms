@@ -1,4 +1,4 @@
-## Recaptcha
+# Recaptcha
 
 Captcha ile ilk kez çeşitli sitelerin üyelik formları doldururken tanışmışızdır hepimiz. Bilgisayar tarafından geçerli işlemin insan tarafından yapıldığı, otomatikleştirilmediğini garanti eden captcha’ya dair ilginç bir istatistiki veri var:
 
