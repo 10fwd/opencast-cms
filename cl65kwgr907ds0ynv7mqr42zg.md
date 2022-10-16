@@ -1,4 +1,4 @@
-## Azer Koçulu, kik, left-pad ve NPM
+# Azer Koçulu, kik, left-pad ve NPM
 
 Birkaç gün önce “11 satır internet’i kırdı” benzeri başlıklarla çıkan haber mutlaka sizlere de ulaşmıştır.
 
