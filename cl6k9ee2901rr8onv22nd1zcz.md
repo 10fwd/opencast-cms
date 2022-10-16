@@ -1,4 +1,4 @@
-## 5 Dakikada CSS Değişkenlerini Öğren!
+# 5 Dakikada CSS Değişkenlerini Öğren!
 
 #### Nasıl başlayacağınızı gösteren hızlı bir eğitim.
 
