@@ -1,4 +1,4 @@
-## .NET Core ile cross platform .NET
+# .NET Core ile cross platform .NET
 
 Bugüne dek .NET’de geliştirilen yazılımları Mono sayesinde Windows dışındaki platformlarda çalıştırabiliyorduk. Microsoft bu projeye “engel” olmuyordu. Bugün Mono’yu destekleyeceklerini, daha da ötesinde daha önce çeşitli kütüphanelerini açık kaynak olarak yayınladığı .NET’in çekirdeği olan .NET Core’u da açık kaynak olarak yayınlayacaklarını bildirdiler. Bunu benim gibi bir çok kişinin kullanmak istemediği CodePlex üzerinden değil de GitHub’dan yapıyor olmaları apayrı bir gösterge. Buradan çıkarabileceğimiz sonuç Microsoft eski muhafazakar tutumunu geride bırakmaya başlıyor ve bunu bizzat eylemleriyle bize kanıtlıyor.
 
