@@ -1,4 +1,4 @@
-## OAuth güzel. Peki Ethereum’u denediniz mi?
+# OAuth güzel. Peki Ethereum’u denediniz mi?
 
 Web uygulamalarının temel ihtiyaçlarının başında kaçınılmaz olarak kimlik doğrulama `Authentication` gelmekte. Kısaca web uygulamamızla iletişime geçen kullanıcının gerçekten de iddia ettiği kullanıcı olduğundan emin olmak istiyoruz. Başlangıçta e-posta adresi/kullanıcı adı ve parola ikilileri ile bu problemi çözdük.
 
